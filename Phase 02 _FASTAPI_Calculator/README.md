@@ -27,22 +27,3 @@ Python app
 → CI/CD
 → Kubernetes
 → AI tools and agents
-
-
-
-## Repository
-
-[Open Phase 01 - Python Calculator App](https://github.com/foxoza7/Python_APP_Calculator)
-
-
-
-## Architecture Purpose
-[Texto que diste sobre ser el primer building block]
-[Línea de evolución: Python → FastAPI → Docker → CI/CD → K8s → AI]
-
-## Project Structure
-[Árbol ASCII simple con los archivos clave: src/main.py, apifinance.py, financial_logic.py, financial_ui.py, calculator_logic.py, calculator_ui.py, templates/]
-
-## Run Commands
-python main.py           # Calculator UI
-python main.py --api     # FastAPI Backend API
