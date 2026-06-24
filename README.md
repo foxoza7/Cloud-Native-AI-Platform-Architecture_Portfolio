@@ -11,7 +11,7 @@ Senior SRE / Platform Engineer transitioning into AI Platform Architecture, LLMO
 | Phase | Name | Status | Repository |
 |---|---|---|---|
 | 01 | Python Automation | Completed | [Open Phase 01](https://github.com/foxoza7/Python_APP_Calculator) |
-| 02 | FastAPI Calculator API | In progress | [Open Phase 02](https://github.com/foxoza7/Phase-02---Python-FastAPI-Backend-API)|
+| 02 | FastAPI Calculator API | Completed | [Open Phase 02](https://github.com/foxoza7/Phase-02---Python-FastAPI-Backend-API)|
 | 03 | Dockerized Application | Completed | [Open Phase 03](https://github.com/foxoza7/Docker_Image) |
 | 04 | Terraform Azure Infrastructure | Planned | Coming soon |
 | 05 | GitHub Actions CI | Planned | Coming soon |
